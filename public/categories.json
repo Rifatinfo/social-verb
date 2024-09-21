@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "icon": "https://img.icons8.com/color/48/000000/idea.png",
+      "title": "Innovative Strategies",
+      "description": "Develop groundbreaking strategies that redefine the market landscape."
+    },
+    {
+      "id": 2,
+      "icon": "https://img.icons8.com/color/48/000000/design.png",
+      "title": "Creative Design",
+      "description": "Craft visually stunning designs that communicate your brand's identity."
+    },
+    {
+      "id": 3,
+      "icon": "https://img.icons8.com/color/48/000000/teamwork.png",
+      "title": "Targeted Marketing",
+      "description": "Reach your audience with precision-targeted campaigns that convert."
+    },
+    {
+      "id": 4,
+      "icon": "https://img.icons8.com/color/48/000000/project.png",
+      "title": "Project Execution",
+      "description": "Seamlessly execute projects from concept to completion with expert oversight."
+    },
+    {
+      "id": 5,
+      "icon": "https://img.icons8.com/color/48/000000/teamwork.png",
+      "title": "Collaborative Solutions",
+      "description": "Empower teams to innovate together with collaborative tools and strategies."
+    },
+    {
+      "id": 6,
+      "icon": "https://img.icons8.com/color/48/000000/analytics.png",
+      "title": "Data-Driven Insights",
+      "description": "Leverage analytics to inform creative decisions and optimize results."
+    }
+  ]
+  
